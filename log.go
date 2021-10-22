@@ -1,4 +1,4 @@
-package log
+package "github.com/MyBeLoVedL/log"
 
 import (
 	"fmt"
